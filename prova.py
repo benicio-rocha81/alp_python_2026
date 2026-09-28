@@ -50,6 +50,7 @@ while True:
 
 
 # LOGIN
+import os
 
 while True:
     os.system("cls" if os.name == "nt" else "clear")
